@@ -41,6 +41,8 @@ sudo sh -c 'echo "deb [arch=amd64] https://packages.microsoft.com/repos/vscode s
 sudo apt-get update
 sudo apt-get install code
 
+sudo apt install golang-go
+
 #Optionally add steam:
 #sudo add-apt-repository multiverse
 #sudo apt update && sudo apt install steam
